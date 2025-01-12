@@ -1,6 +1,6 @@
 # Docker-Hub
 
-kali-linux-core: [docker run -ti kalinovnc:latest](https://hub.docker.com/r/ophigeni/kalinovnc)
+[kali-linux-core] (https://hub.docker.com/r/ophigeni/kalinovnc)
 
 # Docker Build
 
