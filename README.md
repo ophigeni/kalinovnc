@@ -1,6 +1,6 @@
 # Docker-Hub
 
-kali-linux-core: docker tag kalinovnc:latest ophigeni/kalinovnc:latest
+kali-linux-core: docker run -ti kalinovnc:latest
 
 # Docker Build
 
